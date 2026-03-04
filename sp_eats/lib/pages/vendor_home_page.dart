@@ -12,7 +12,7 @@ import 'package:image/image.dart' as img;
 
 import 'welcome_page.dart';
 
-const String kHfApiKey = "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";
+const String kHfApiKey = "hi";
 const String kHfImageModel = "stabilityai/stable-diffusion-xl-base-1.0";
 const String kHfProxyUrl = "";
 
