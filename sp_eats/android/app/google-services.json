@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "529426925841",
+    "project_id": "speats-f09a6",
+    "storage_bucket": "speats-f09a6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529426925841:android:024750b89c2d6d8b1da4b0",
+        "android_client_info": {
+          "package_name": "com.example.sp_eats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTjx52lrLl2-9wP4SIK6yO0OHgEuVa-SI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
